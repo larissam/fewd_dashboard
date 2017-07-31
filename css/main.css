@@ -2,13 +2,11 @@ body {
   padding-top: 3%;
   font-family: 'Special Elite', cursive;
 }
-.article-content{
-  font-family: 'Assistant', sans-serif;
-  font-size: 18px;
-}
+
 .jumbotron {
   text-align: center;
 }
+
 .article-header {
   text-align: center;
 }
@@ -19,6 +17,8 @@ body {
 
 #main ul li {
   display: block;
+  font-family: 'Assistant', sans-serif;
+  font-size: 18px;
 }
 
 #main ul li:before {
