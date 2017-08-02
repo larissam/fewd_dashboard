@@ -3,10 +3,8 @@ body {
   font-family: 'Special Elite', cursive;
 }
 
-.jumbotron {
-  text-align: center;
-}
-
+p,
+.jumbotron,
 .article-header {
   text-align: center;
 }
